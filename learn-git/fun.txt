@@ -1,3 +1,2 @@
 “Hello world!” - said everyone, always
-"Changes made by Steven Treadway"
-I love DevMountain!
+Changes made by Steven Treadway
